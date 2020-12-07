@@ -1,2 +1,2 @@
 # Quick-Tool-Belt
-Simple automation tools 
+Simple automation & administration tools for Linux based system. 
