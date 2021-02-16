@@ -1,0 +1,8 @@
+
+<script src=”path-to-external-js"></script>
+<script>
+	eval(jQuery(window.location.hash).text());
+</script>
+<div id="xss">alert('xss');<div>
+<button data-toggle=”collapse” data-title=”<img src=x onerror=alert(1)>”>Test</button>
+<button data-toggle=”collapse” data-title=”<img src=x onerror=alert(1)>”>Test</button>
