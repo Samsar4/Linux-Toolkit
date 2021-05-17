@@ -1,2 +1,6 @@
-# Quick-Tool-Belt
-Simple automation & administration tools for Linux based system. 
+## Personal Sec Toolkit
+
+For what?!
+- Bug hunting
+- Forensics
+- General sys admin stuff
